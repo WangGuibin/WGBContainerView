@@ -37,7 +37,7 @@ WGBContainerView
 ### CocoaPods 安装
 
 ```ruby
-pod 'WGBAppleContainerView', '~> 1.0.0'
+pod 'WGBAppleContainerView', '~> 1.0.1'
 ```
 
 ### 基础用法
